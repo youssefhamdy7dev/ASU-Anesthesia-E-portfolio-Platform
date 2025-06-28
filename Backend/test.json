@@ -1,0 +1,59 @@
+[
+    {
+        "id": 2,
+        "date": "2023-03-31",
+        "timeslotID": 2,
+        "facilityID": 10,
+        "gender": "m",
+        "age": 22,
+        "ageUnitID": 2,
+        "ageCategoryID": 6,
+        "asapsClassID": 5,
+        "casePriorityID": 2,
+        "primarySpecialtyID": 9,
+        "primaryOperationID": 117,
+        "pOthers": null,
+        "secondarySpecialtyID": 9,
+        "secondaryOperationID": 120,
+        "sOthers": null,
+        "supervisionID": 2,
+        "supervisorRoleID": 1,
+        "teachingID": 8,
+        "modeOfAnesthesiaID": 4,
+        "significantEvent": "no events",
+        "pending": 1,
+        "residentID": 1,
+        "supervisorID": 2,
+        "caseCreationDate": "2023-04-18 21:22:07"
+    }
+]
+
+[
+    {
+        "id": 1,
+        "date": "2023-04-05",
+        "timeslotID": 2,
+        "facilityID": 11,
+        "gender": "m",
+        "age": 23,
+        "ageUnitID": 5,
+        "ageCategoryID": 5,
+        "asapsClassID": 3,
+        "casePriorityID": 1,
+        "primarySpecialtyID": 14,
+        "primaryOperationID": 188,
+        "pOthers": null,
+        "secondarySpecialtyID": null,
+        "secondaryOperationID": null,
+        "sOthers": null,
+        "supervisionID": 2,
+        "supervisorRoleID": 2,
+        "teachingID": 8,
+        "modeOfAnesthesiaID": 5,
+        "significantEvent": "no events.",
+        "pending": 1,
+        "residentID": 1,
+        "supervisorID": 1,
+        "caseCreationDate": "2023-04-18 20:27:35"
+    }
+]
