@@ -1,9 +1,0 @@
-# Treat Blade as PHP
-*.blade.php linguist-language=PHP
-
-# Ignore frontend from language stats
-/Frontend/* linguist-vendored
-
-# Ignore vendor stuff
-/Backend/vendor/* linguist-vendored
-/node_modules/* linguist-vendored
