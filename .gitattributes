@@ -2,8 +2,8 @@
 *.blade.php linguist-language=PHP
 
 # Ignore frontend from language stats
-/frontend/* linguist-vendored
+/Frontend/* linguist-vendored
 
 # Ignore vendor stuff
-/backend/vendor/* linguist-vendored
+/Backend/vendor/* linguist-vendored
 /node_modules/* linguist-vendored
