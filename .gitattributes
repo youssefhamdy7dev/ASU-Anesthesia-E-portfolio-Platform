@@ -1,7 +1,9 @@
-# Force Blade templates to count as PHP
+# Treat Blade as PHP
 *.blade.php linguist-language=PHP
 
-# Ignore vendor & storage from language stats
-/vendor/* linguist-vendored
-/storage/* linguist-vendored
+# Ignore frontend from language stats
+/frontend/* linguist-vendored
+
+# Ignore vendor stuff
+/backend/vendor/* linguist-vendored
 /node_modules/* linguist-vendored
